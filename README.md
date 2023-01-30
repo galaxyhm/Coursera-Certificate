@@ -14,4 +14,4 @@ Currently accomplished or going courses :
 |Applied Data Science with Python|Applied Machine Learning in Python||4 weeks||Not yet|
 |Applied Data Science with Python|Applied Text Mining in Python||4 weeks||Not yet|
 |Applied Data Science with Python|Applied Social Network Analysis in Python||4 weeks||Not yet|
-|Google Data Analyst|Foundations:Data, Data, Everywhere||4 weeks|Google|Finished certificated is soon be updated.|
+|Google Data Analyst|Foundations:Data, Data, Everywhere||4 weeks|Google|https://www.coursera.org/account/accomplishments/certificate/Y39PTECREM8Y|
