@@ -9,7 +9,7 @@ Currently accomplished or going courses :
 |-|The Science of Well-Being|Personal Development|10 weeks|Yale University| On going|
 |-|Data Science Math Skills|Math|4 weeks | Duke University|https://coursera.org/share/194123ae20126f65239803467939d90c|
 |Applied Data Science with Python||Python|20  weeks|University of Michigan|To be updated
-|Applied Data Science with Python|Introduction to Data Science in Python|Python, Data Science|4 weeks||On going|
+|Applied Data Science with Python|Introduction to Data Science in Python|Python, Data Science|4 weeks||https://coursera.org/share/c75848000500e0e4efad3a1f16b970fb|
 |Applied Data Science with Python|Applied Plotting, Charting & Data Representation in Python||4 weeks||Not yet|
 |Applied Data Science with Python|Applied Machine Learning in Python||4 weeks||Not yet|
 |Applied Data Science with Python|Applied Text Mining in Python||4 weeks||Not yet|
